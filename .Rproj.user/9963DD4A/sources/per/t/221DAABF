@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585162304233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "430275285",
+    "id" : "221DAABF",
+    "lastKnownWriteTime" : 1585521323,
+    "last_content_update" : 1585521324013,
+    "path" : "F:/G2/R-program/RPackge/OptimizationPrg/R/eindim618funk.R",
+    "project_path" : "R/eindim618funk.R",
+    "properties" : {
+        "cursorPosition" : "30,49",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
