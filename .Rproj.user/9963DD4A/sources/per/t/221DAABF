@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "430275285",
+    "hash" : "599947762",
     "id" : "221DAABF",
-    "lastKnownWriteTime" : 1585521323,
-    "last_content_update" : 1585521324013,
-    "path" : "F:/G2/R-program/RPackge/OptimizationPrg/R/eindim618funk.R",
+    "lastKnownWriteTime" : 1589812260,
+    "last_content_update" : 1589812260,
+    "path" : "F:/G2/R-program/R-Packge/OptimizationPrg/R/eindim618funk.R",
     "project_path" : "R/eindim618funk.R",
     "properties" : {
-        "cursorPosition" : "30,49",
-        "scrollLine" : "22"
+        "cursorPosition" : "62,15",
+        "scrollLine" : "50"
     },
     "read_only" : false,
     "read_only_alternatives" : [
