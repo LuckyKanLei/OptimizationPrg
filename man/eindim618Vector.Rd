@@ -9,7 +9,7 @@ eindim618Vector(
   LowerBound,
   UpperBound,
   idealReferenz,
-  abweichfk = absolutabweichungfunk,
+  abweichfk = absolutabweichungVector,
   umkriesn = 5,
   ...
 )

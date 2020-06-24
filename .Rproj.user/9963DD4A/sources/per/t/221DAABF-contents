@@ -60,7 +60,7 @@ eindim618funk <- function(processfk, paramekl, paramegr, DatenReferenz, abweichf
 #' @param ... other paramater for processfk
 #' @return numica vector, the best wert Optimal solution
 #' @export
-eindim618Vector <- function(processfk, LowerBound, UpperBound, idealReferenz, abweichfk = absolutabweichungfunk, umkriesn = 5, ...){
+eindim618Vector <- function(processfk, LowerBound, UpperBound, idealReferenz, abweichfk = absolutabweichungVector, umkriesn = 5, ...){
   lLow <- length(LowerBound)
   lUpp <- length(UpperBound)
   lRef <- length(idealReferenz)
